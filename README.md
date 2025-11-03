@@ -146,13 +146,6 @@ We welcome contributions! Please see our Contributing Guide for details.
 
 Development Setup
 bash
-git clone https://github.com/amirmoba/doorlockd-client.git
-cd doorlockd-client
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements-dev.txt
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Developer
 Amir Mobasheraghdam - Lead Developer & Maintainer
